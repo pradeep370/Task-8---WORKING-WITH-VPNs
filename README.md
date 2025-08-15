@@ -4,7 +4,7 @@
 **Submitted By** - PRADEEP S
 
 ## 🎯 Objective
-
+  To understand, configure, and test a Virtual Private Network (VPN) using Windscribe, verify its effect on IP address and internet speed, and document the benefits and limitations of VPN usage for privacy and security.
 ## 🛠 Tools Used
 
 1. **VPN Client** - Windscribe (Free Tier)  
